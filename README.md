@@ -7,13 +7,11 @@ Este proyecto involucra el diseño y análisis de una turbina tipo Kaplan, que i
 ## Tecnologías Utilizadas
 
 - **Modelado 3D**: SolidWorks
-- **Análisis CFD**: ANSYS Fluent
 - **Documentación Técnica**: AutoCAD
 
 ## Contenidos del Repositorio
 
 - `/modelos_cad`: Contiene los archivos CAD en formatos .stl, .step, .iges.
-- `/analisis_cfd`: Resultados y scripts de análisis CFD realizados en ANSYS Fluent.
 - `/documentacion`: Planos técnicos y documentación del proyecto en formato PDF.
 
 ## Instalación y Uso
