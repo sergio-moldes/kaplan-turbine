@@ -74,3 +74,4 @@ Aquí se incluyen algunas imágenes del diseño final en CAD:
 ![Distribuidor](imagenes/distribuidor.png)
 ![Tubo de Aspiración](imagenes/tubo_aspiracion.png)
 ![Caja Espiral](imagenes/caja_espiral.png)
+
