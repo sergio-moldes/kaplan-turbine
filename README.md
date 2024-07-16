@@ -8,7 +8,6 @@ Este proyecto involucra el diseño y análisis de una turbina tipo Kaplan, que i
 
 - **Modelado 3D**: SolidWorks
 - **Análisis CFD**: ANSYS Fluent
-- **Simulación y Meshing**: Hypermesh
 - **Documentación Técnica**: AutoCAD
 
 ## Contenidos del Repositorio
