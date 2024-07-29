@@ -1,73 +1,74 @@
-# Diseño de Turbina Kaplan
+# Kaplan Turbine Design
 
-## Descripción del Proyecto
+## Project Description
 
-Este proyecto involucra el diseño y análisis de una turbina tipo Kaplan, que incluye el dimensionamiento y análisis de los parámetros necesarios para el diseño del rodete, distribuidor, tubo de aspiración y caja espiral. Se ha realizado un diseño en CAD y se han llevado a cabo simulaciones CFD para verificar el rendimiento del diseño.
+This project involves the design and analysis of a Kaplan-type turbine, which includes the sizing and analysis of the necessary parameters for the design of the runner, distributor, draft tube, and spiral casing. A CAD design has been created, and CFD simulations have been carried out to verify the performance of the design.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **Modelado 3D**: SolidWorks
-- **Documentación Técnica**: AutoCAD
+- **3D Modeling**: SolidWorks
+- **Technical Documentation**: AutoCAD
 
-## Contenidos del Repositorio
+## Repository Contents
 
-- `/modelos_cad`: Contiene los archivos CAD en formatos .stl, .step, .iges.
-- `/documentacion`: Planos técnicos y documentación del proyecto en formato PDF.
+- `/cad_models`: Contains CAD files in .stl, .step, .iges formats.
+- `/documentation`: Technical drawings and project documentation in PDF format.
 
-## Instalación y Uso
+## Installation and Usage
 
-Para visualizar y modificar los modelos CAD:
+To view and modify the CAD models:
 
-1. Clonar el repositorio: `git clone https://github.com/sergio-moldes/turbina-kaplan.git`
-2. Abrir los archivos en SolidWorks o el software de tu elección.
+1. Clone the repository: `git clone https://github.com/sergio-moldes/turbina-kaplan.git`
+2. Open the files in SolidWorks or your preferred software.
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio que desees realizar.
+Contributions are welcome. Please open an issue or submit a pull request to discuss any changes you wish to make.
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Documentación del Proyecto
+## Project Documentation
 
-El proyecto se ha documentado exhaustivamente en el siguiente archivo PDF: [Memoria de Diseño de Turbina Kaplan](documentacion/Memoria_turbina_kaplan_final.pdf)
+The project has been thoroughly documented in the following PDF file: [Kaplan Turbine Design Documentation](documentation/Memoria_turbina_kaplan_final.pdf)
 
-### Resumen de la Memoria
+### Documentation Summary
 
-#### 1. Introducción
+#### 1. Introduction
 
-Se describe el objetivo del proyecto y una visión general del diseño de la turbina Kaplan.
+Describes the project objective and provides an overview of the Kaplan turbine design.
 
-#### 2. Nomenclatura y Simbología
+#### 2. Nomenclature and Symbols
 
-Lista de símbolos y nomenclatura utilizados en los cálculos del diseño.
+List of symbols and nomenclature used in the design calculations.
 
-#### 3. Cálculos del Rodete
+#### 3. Runner Calculations
 
-Cálculos detallados para el dimensionado del rodete, incluyendo parámetros iniciales, diámetro exterior, sección libre de paso y rendimiento hidráulico.
+Detailed calculations for the sizing of the runner, including initial parameters, outer diameter, free passage section, and hydraulic performance.
 
-#### 4. Diseño del Distribuidor
+#### 4. Distributor Design
 
-Cálculos y diseño de los álabes del distribuidor, ángulo de incidencia y altura de los álabes.
+Calculations and design of the distributor blades, incidence angle, and blade height.
 
-#### 5. Cálculos del Tubo de Aspiración
+#### 5. Draft Tube Calculations
 
-Análisis de cavitación y altura de succión, dimensionado del tubo de aspiración.
+Cavitation analysis and suction height, sizing of the draft tube.
 
-#### 6. Diseño de la Caja en Espiral
+#### 6. Spiral Casing Design
 
-Dimensionado y diseño de la caja espiral que dirige el flujo hacia el rodete.
+Sizing and design of the spiral casing that directs the flow to the runner.
 
-#### 7. Diseño en CAD
+#### 7. CAD Design
 
-Proceso de diseño en CAD del rodete, distribuidor, tubo de aspiración y caja espiral, incluyendo la corrección de cuerda y ángulos.
+CAD design process of the runner, distributor, draft tube, and spiral casing, including chord and angle correction.
 
-### Imágenes del Proyecto
+### Project Images
 
-Aquí se incluyen algunas imágenes del diseño final en CAD:
+Here are some images of the final CAD design:
 
-![Rodete](imagenes/rodete.png)
-![Distribuidor](imagenes/distribuidor.png)
-![Tubo de Aspiración](imagenes/tubo_aspiracion.png)
-![Caja Espiral](imagenes/caja_espiral.png)
+![Runner](images/rodete.png)
+![Distributor](images/distribuidor.png)
+![Draft Tube](images/tubo_aspiracion.png)
+![Spiral Casing](images/caja_espiral.png)
+
